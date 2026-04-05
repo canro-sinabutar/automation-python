@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 import sys
-  
+
 
 def run_automation():
     # Menggunakan context manager agar resource bersih setelah selesai
